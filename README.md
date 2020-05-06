@@ -2,37 +2,37 @@
 ![](/logo.jpg)
 
 
-#HIGH PERFORMANCE COMPUTING
+# HIGH PERFORMANCE COMPUTING
 
 <br/>
 
-##HPC PROJECT
+## HPC PROJECT
 
 <br/>
 
-###OPENMP PROGRAM
+### OPENMP PROGRAM
 
 <br/>
 
-####Group:
+#### Group:
 Daniel Vieira Cordeiro
 Rafael Câmara Pereira 
 
 <br/>
 
-####Coordination:
+#### Coordination:
 Lerida Monso, Josep Lluis
 
 <br/>
 
-#####Lleida
-#####Academic year 2019-2020
+##### Lleida
+##### Academic year 2019-2020
 
 <br/>
 
 ---
 
-##Contents
+## Contents
 
 The folder **Execution Files** contains the auxiliary files used to execute the code in the Moore Cluster.
 
@@ -47,7 +47,7 @@ There are 6 files:
 
 ---
 
-##Instructions
+## Instructions
 
 **Disclaimer:** this process is fairly manual and extensive and is planned to be updated soon. But due to lack of time, this is what we have for now.
 
@@ -87,7 +87,7 @@ to automatically compile the code and submit it to the Moore job execution queue
 
 ---
 
-##Output
+## Output
 
 The output of each execution will consist of a **".e"** file with the execution time. for instance:
 
